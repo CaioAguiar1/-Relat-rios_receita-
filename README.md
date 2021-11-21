@@ -1,4 +1,4 @@
-## Relatórios da Empresa
+## Relatórios da Empresa 🔎
 > Um projeto pequeno do meu curso de python
 
 # Nesse relatório minha missão era colocar em pratica o aprendizado visto anteriormente nas aulas!
